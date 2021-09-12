@@ -1,0 +1,28 @@
+/////////////////////////////////////////// QUIZ BOT TELEGRAM /////////////////////////////////////////////////
+
+Step 1 :- Search Quiz Bot On Telegram.
+
+step 2 :- Enter /start in TextField.
+
+step 3 :- Enter Title Of Quiz.
+
+step 4 :- Enter Description. --> THIS IS OPTIONAL. Can Enter /skip
+
+step 5 :- Now Click On Create a Question.
+
+step 6 :- Now Enter Question And Option And Tick On Correct Answer And Also Can Add Explanation And Click On Create.
+
+step 7 :- If You Want TO Add More Question Then Click Create a Question Again.
+
+step 8 :- Then Enter /done To Finish.
+
+step 9 :- Now Select Time For Question.
+
+step 10 :- Now Select Shuffle For Question or Anwser.
+
+step 11 :- Congratulations!!! You Have Successfull Created A Quiz Bot Of Telegram.
+
+step 12 :- Now You Have Many Option Like Start Quiz Start Quiz in Group ShareQuiz Edit Quiz Quiz Status Use Option As You Want.
+
+step 13 :- Thank You.
+
